@@ -71,3 +71,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## Notes:
+This is going to be a ecommerce
+Entities:
+Order
+Category
+User
+Product
+Brand
+Customer
